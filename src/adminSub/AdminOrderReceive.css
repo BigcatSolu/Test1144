@@ -1,0 +1,40 @@
+.status-1 {
+    color: orange;
+  }
+  
+  .status-2 {
+    color: #076df2;
+  }
+  
+  .status-3 {
+    color: green;
+  }
+  
+  .status-4 {
+    color: red;
+  }
+  
+  .countdown-timer {
+    background-color: #076df2;
+    color: #fff;
+    /* padding: 2px 4px 2px 4px; */
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+  }
+
+  .timerInput {
+    width: 120px;
+    height: 38px;
+    outline: none;
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+
+.emptyDiv {
+
+}

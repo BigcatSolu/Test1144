@@ -1,0 +1,20 @@
+.Available {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.Not {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.Working {
+    background-color: #007bff;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}

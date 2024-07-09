@@ -1,0 +1,46 @@
+.dataTableWrapper .rdt_Table {
+    background-color: transparent !important;
+  }
+
+.mainContent {
+    position: relative;
+}
+  
+  .dataTableWrapper .rdt_TableHead {
+    background-color: transparent !important;
+  }
+  .dataTableWrapper .rdt_TableHeadRow {
+    background-color: transparent !important;
+  }
+
+  .dataTableWrapper .rdt_Pagination {
+    position: absolute;
+    bottom: 0;
+    left: -1px;
+    color: #fff;
+    background-color: transparent !important;
+    /* cursor: pointer; */
+  }
+
+
+  
+  .dataTableWrapper .rdt_TableRow {
+    background-color: transparent !important;
+    cursor: pointer;
+    /* color: #fff; */
+  }
+/*   
+  .dataTableWrapper .rdt_TableCell {
+    background-color: transparent !important;
+  }
+  
+  .dataTableWrapper .rdt_TableCol {
+    background-color: transparent !important;
+  } */
+/* 
+  .dataTableWrapper .rdt_TableCol_Sortable {
+    background-color: transparent !important;
+  } */
+
+
+  
