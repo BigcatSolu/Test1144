@@ -21,7 +21,7 @@ export const InactivityTimerProvider = ({ children }) => {
         };
 
         window.addEventListener('mousemove', handleActivity);
-        window.addEventListener('keydown', handleActivity);s
+        window.addEventListener('keydown', handleActivity);
 
         return () => {
             window.removeEventListener('mousemove', handleActivity);
